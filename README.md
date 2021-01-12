@@ -1,5 +1,7 @@
 # V01D
-This is the official V01D Bot from Minecodes and netDevil
+This is the official V01D Bot from Minecodes and netDevil.
+
+Please read the [lisence](https://github.com/Minecodes/V01D/blob/main/LICENSE)
 
 ----------
 
